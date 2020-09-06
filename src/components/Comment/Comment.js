@@ -10,6 +10,11 @@ const useStyles = makeStyles(theme => ({
     display: "flex",
     margin: "20px 40px",
     padding: "40px",
+    justifyContent: "between",
+  },
+  details: {
+    display: "flex",
+    flex: 1,
   },
   cover: {
     width: "150px",
