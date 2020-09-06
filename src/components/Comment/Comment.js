@@ -43,10 +43,10 @@ const Comment = props => {
               Post ID: {postId}
             </Typography>
             <Typography component='h5' variant='h5' gutterBottom>
-              Comment Title : ☑️ {name}
+              Name : ☑️ {name}
             </Typography>
             <Typography variant='subtitle1' color='textSecondary'>
-              Comment Body : ☑️ {body}
+              Comments : ☑️ {body}
             </Typography>
           </CardContent>
         </div>
