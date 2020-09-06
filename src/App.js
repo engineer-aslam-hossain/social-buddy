@@ -12,7 +12,7 @@ function App() {
       <Header />
       <Router>
         <Switch>
-          <Route exact path='/'>
+          <Route exact path={process.env.PUBLIC_URL + "/"}>
             <Posts />
           </Route>
           <Route path='/single_post/:postId'>
