@@ -15,10 +15,10 @@ function App() {
           <Route exact path={process.env.PUBLIC_URL + "/"}>
             <Posts />
           </Route>
-          <Route path={process.env.PUBLIC_URL + "/single_post/:postId"}>
+          <Route path='/single_post/:postId'>
             <SinglePost />
           </Route>
-          <Route path={process.env.PUBLIC_URL + "*"}>
+          <Route path='*'>
             <NoMatch />
           </Route>
         </Switch>
