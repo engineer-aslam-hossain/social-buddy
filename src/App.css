@@ -1,9 +1,0 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-.app {
-  background: linear-gradient(90deg, #095dd7, #70b8ff);
-  padding-bottom: 40px;
-}
