@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/social-buddy/static/css/main.697f61a7.chunk.css",
-    "main.js": "/social-buddy/static/js/main.4217dfc3.chunk.js",
-    "main.js.map": "/social-buddy/static/js/main.4217dfc3.chunk.js.map",
+    "main.js": "/social-buddy/static/js/main.4db0b7eb.chunk.js",
+    "main.js.map": "/social-buddy/static/js/main.4db0b7eb.chunk.js.map",
     "runtime-main.js": "/social-buddy/static/js/runtime-main.f1f34df6.js",
     "runtime-main.js.map": "/social-buddy/static/js/runtime-main.f1f34df6.js.map",
     "static/js/2.1565d77d.chunk.js": "/social-buddy/static/js/2.1565d77d.chunk.js",
     "static/js/2.1565d77d.chunk.js.map": "/social-buddy/static/js/2.1565d77d.chunk.js.map",
     "index.html": "/social-buddy/index.html",
-    "precache-manifest.a429bf27210cd09656ac6d18e7696da2.js": "/social-buddy/precache-manifest.a429bf27210cd09656ac6d18e7696da2.js",
+    "precache-manifest.38c0db6a95d4025b54d5ccfc492da09c.js": "/social-buddy/precache-manifest.38c0db6a95d4025b54d5ccfc492da09c.js",
     "service-worker.js": "/social-buddy/service-worker.js",
     "static/css/main.697f61a7.chunk.css.map": "/social-buddy/static/css/main.697f61a7.chunk.css.map",
     "static/js/2.1565d77d.chunk.js.LICENSE.txt": "/social-buddy/static/js/2.1565d77d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f1f34df6.js",
     "static/js/2.1565d77d.chunk.js",
     "static/css/main.697f61a7.chunk.css",
-    "static/js/main.4217dfc3.chunk.js"
+    "static/js/main.4db0b7eb.chunk.js"
   ]
 }
